@@ -21,3 +21,5 @@ Usando API do github procure por usuarios e veja suas informações.
 - [react-tabs]
 - [styled-components]
 
+### Projeto em live
+https://github-api-interface.vercel.app/
